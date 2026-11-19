@@ -10,4 +10,4 @@ database_id = "17199d69-3d96-4bf5-acfc-d95fd3770e07"
 
 [[r2_buckets]]
 binding = "BUCKET"
-bucket_name = "servicos-foto"
+bucket_name = "servicos-fotos"
