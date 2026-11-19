@@ -1,0 +1,13 @@
+# wrangler.toml
+name = "servicos-api"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "servicos-db"
+database_id = "17199d69-3d96-4bf5-acfc-d95fd3770e07"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "servicos-fotos"
